@@ -9,10 +9,10 @@ summary: How to write a report correctly?
 projects: []
 
 # Date published
-date: '2022-05-22T00:00:00Z'
+date: '2022-05-17T00:00:00Z'
 
 # Date updated
-lastmod: '2022-05-22T00:00:00Z'
+lastmod: '2022-05-17T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -43,23 +43,23 @@ categories:
 
 ## Design
 
-- - - 
+- - -
 
 Despite the presence of its own requirements at each university, which can be found in the methodological literature of your university, there are standards for preparing a practice report: 
 
-The total amount of work does not exceed 40 sheets of standard A4 format. 
+1. The total amount of work does not exceed 40 sheets of standard A4 format. 
 
-The practice report is numbered on all pages (except for the title page and the appendix to the practice work). 
+2. The practice report is numbered on all pages (except for the title page and the appendix to the practice work). 
 
-The text of the work is printed in black type Times New Roman 12-14 pt. Between the lines set double or one and a half spacing. 
+3. The text of the work is printed in black type Times New Roman 12-14 pt. Between the lines set double or one and a half spacing. 
 
-The indent from the new line is 1.25 pt. 
+4. The indent from the new line is 1.25 pt. 
 
-Each section has its own title. The new section starts on a new line. 
+5. Each section has its own title. The new section starts on a new line. 
 
-Before starting to create a document, acceptable page indents are set: 30 mm on the left margin, 20 mm on the right margin, 20 mm indent above and below. 
+6. Before starting to create a document, acceptable page indents are set: 30 mm on the left margin, 20 mm on the right margin, 20 mm indent above and below. 
 
-When preparing a report on practice according to GOST, it is unacceptable to transfer words. However, many university departments allow word wrapping, so check this point with your department. 
+7. When preparing a report on practice according to GOST, it is unacceptable to transfer words. However, many university departments allow word wrapping, so check this point with your department. 
 
 If you study at a technical university, you may need a frame for the report.
 
